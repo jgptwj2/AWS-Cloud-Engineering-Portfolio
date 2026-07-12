@@ -45,6 +45,7 @@ While building and maintaining the application, I worked with:
 # Repository Structure
 
 docs/
+
 - EC2.md
 - SECURITY.md
 - DEPLOYMENT.md

@@ -1,20 +1,17 @@
 # AWS Security
 
-## Goal
+## Overview
 
-Implement AWS security best practices to protect cloud infrastructure.
+Security was an important consideration while deploying WhaleBot.
 
 ## Topics
 
+- SSH authentication using PEM keys
 - Security Groups
-- Network ACLs
-- IAM Permissions
-- Encryption
-- Least Privilege
-- Secure SSH Access
+- Environment variables
+- Secret management
+- Restricting server access
 
-## Skills Demonstrated
+## Lessons Learned
 
-- Infrastructure security
-- Network security
-- Cloud security
+Sensitive information such as API keys and webhooks should never be committed to source control. Environment variables and Git ignore rules help protect credentials during development.
