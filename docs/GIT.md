@@ -1,13 +1,27 @@
 # Git & GitHub
 
-## Topics
+## Overview
 
-- Git initialization
-- Repository management
+Git was used throughout the development and deployment of WhaleBot v5.
+
+## Practical Experience
+
+- Git repository management
 - Version control
+- GitHub repositories
 - Private repositories
-- GitHub documentation
+- Git authentication
+- Git add
+- Git commit
+- Git push
+- Git pull
+- Git rebase
+- Merge conflict resolution
+- Branch management
 
-## Lessons Learned
+## Skills Demonstrated
 
-Version control is an essential part of software development. Maintaining organized commits and documentation improves long-term project maintenance.
+- Source control
+- Collaboration workflows
+- Repository maintenance
+- Documentation management

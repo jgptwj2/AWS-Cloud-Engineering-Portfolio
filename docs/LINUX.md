@@ -1,14 +1,39 @@
 # Linux Administration
 
-## Topics
+## Overview
+
+WhaleBot v5 was developed and maintained on Ubuntu Linux running on AWS EC2.
+
+## Commands and Tools Used
 
 - SSH
-- File permissions
-- Directory management
-- Package updates
-- Process management
-- Command-line navigation
+- Bash
+- Nano
+- chmod
+- cp
+- mv
+- rm
+- mkdir
+- ls
+- pwd
+- cat
+- grep
+- find
+- ps
 
-## Lessons Learned
+## Practical Experience
 
-Developing cloud-hosted software requires familiarity with Linux administration and command-line tools in addition to programming.
+- Navigating the Linux file system
+- Managing project directories
+- Editing configuration files
+- Managing file permissions
+- Updating project files
+- Troubleshooting deployment problems
+- Working entirely from the Linux command line
+
+## Skills Demonstrated
+
+- Ubuntu administration
+- Command-line proficiency
+- File management
+- Linux troubleshooting

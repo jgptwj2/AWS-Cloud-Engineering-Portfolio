@@ -2,16 +2,29 @@
 
 ## Overview
 
-Security was an important consideration while deploying WhaleBot.
+Security was an important part of deploying and maintaining WhaleBot v5.
 
-## Topics
+## Technologies Used
 
-- SSH authentication using PEM keys
 - Security Groups
-- Environment variables
+- SSH
+- PEM Keys
+- Environment Variables
+- .gitignore
+- GitHub Private Repositories
+
+## Practical Experience
+
+- Configured Security Groups to control inbound access
+- Connected using SSH with PEM authentication
+- Protected API keys using environment variables
+- Prevented sensitive files from entering Git using .gitignore
+- Maintained proprietary source code in private repositories
+- Managed deployment credentials securely
+
+## Skills Demonstrated
+
+- Cloud security
 - Secret management
-- Restricting server access
-
-## Lessons Learned
-
-Sensitive information such as API keys and webhooks should never be committed to source control. Environment variables and Git ignore rules help protect credentials during development.
+- Secure authentication
+- Infrastructure protection
