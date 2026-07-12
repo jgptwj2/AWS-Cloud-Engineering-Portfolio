@@ -1,38 +1,58 @@
-# AWS Secure Cloud Infrastructure
+# AWS Cloud Engineering Portfolio
 
 ## Overview
 
-This project documents the design and deployment of a secure AWS cloud environment built using core AWS services.
+This repository documents the cloud engineering concepts, deployment decisions, and operational practices I used while developing and deploying real-world applications on AWS.
 
-The objective is to demonstrate practical cloud engineering skills including networking, compute, identity and access management, monitoring, logging, and infrastructure security.
+Rather than serving as a collection of isolated labs, this portfolio focuses on practical cloud engineering experience gained while deploying, maintaining, and documenting production-style projects.
 
 ---
 
-# AWS Services
+# Featured Project
+
+## WhaleBot v5
+
+WhaleBot v5 is a cloud-hosted Python application deployed on AWS EC2.
+
+While building and maintaining the application, I worked with:
 
 - Amazon EC2
-- Amazon VPC
-- IAM
+- Ubuntu Linux
+- SSH
 - Security Groups
-- CloudWatch
-- CloudTrail
-- Amazon S3
+- Git & GitHub
+- Environment Variable Management
+- Python Deployment
+- Server Administration
+- Application Troubleshooting
 
 ---
 
 # Topics Covered
 
-- Cloud networking
-- Linux server administration
+- AWS EC2
+- Linux Server Administration
 - SSH
-- Identity and access management
-- Infrastructure security
-- Monitoring
-- Logging
-- Documentation
+- Security Groups
+- Git Deployment
+- Environment Variables
+- Cloud Security Fundamentals
+- Deployment Documentation
+- Software Architecture
 
 ---
 
-# Project Status
+# Repository Structure
 
-🚧 In Progress
+docs/
+- EC2.md
+- SECURITY.md
+- DEPLOYMENT.md
+- LINUX.md
+- GIT.md
+
+---
+
+# Future Expansion
+
+This portfolio will continue to grow with additional AWS projects involving networking, monitoring, identity management, and cloud security.
